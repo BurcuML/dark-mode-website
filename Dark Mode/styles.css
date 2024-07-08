@@ -121,10 +121,9 @@ nav ul li a:hover::before{
   margin-top: 110px;
   text-shadow: 7px 8px 10px rgba(0, 0, 0, 0.4);
 }
-/* Bunu sonradan ekle
 .col h1::selection{
   background-color: #F5832A;
-}*/ 
+}
 .col a{
   text-decoration: none;
   font-size: 20px;
